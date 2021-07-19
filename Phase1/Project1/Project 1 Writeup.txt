@@ -1,0 +1,3 @@
+1- The solution is for Project-1 "Virtual Key for your Repositories
+2- The solution is in the git URL:https://github.com/m-awaji/-Mariam-Awaji-jfs-sda.git
+3- To find the solution in the git follow this path: Phase1/Project1/src/com/LockedMe.java
